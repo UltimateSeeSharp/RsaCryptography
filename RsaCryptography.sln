@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RsaCrypthography.Console", "RsaCrypthography.Console\RsaCrypthography.Console.csproj", "{BC60F284-33B7-4EE4-9718-774FAA0C0757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC60F284-33B7-4EE4-9718-774FAA0C0757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC60F284-33B7-4EE4-9718-774FAA0C0757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC60F284-33B7-4EE4-9718-774FAA0C0757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC60F284-33B7-4EE4-9718-774FAA0C0757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1ED120C-93C7-48EF-A3D9-3AFBC08841D5}
+	EndGlobalSection
+EndGlobal
